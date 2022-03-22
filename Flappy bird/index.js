@@ -96,4 +96,4 @@ function jogo(){
 
 jogo();
 
-// By: Codezinho.
+// By: Annext.
